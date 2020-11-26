@@ -1,0 +1,33 @@
+.wrapper-container {
+  width: 80%;
+  float: right;
+}
+
+.wrapper-title-paginate {
+  display: flex;
+  align-items: center;
+}
+.wrapper-title-paginate a {
+  text-decoration: none;
+  background-color: blue;
+  border-radius: 5px;
+  width: 5em;
+  height: 2rem;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+}
+.wrapper-title-paginate input {
+  border-radius: 5px;
+  border: 1px solid #c3c3c3;
+  padding: 5px;
+}
+.wrapper-title-paginate h3 {
+  padding: 15px 2em 10px 2em;
+}
+.wrapper-title-paginate a:hover {
+  background-color: #0b0bce;
+  color: #ffffff;
+  text-decoration: none;
+}

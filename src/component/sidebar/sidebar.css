@@ -1,0 +1,30 @@
+.sidenav---sidenav-toggle---1KRjR {
+  margin-left: 50% !important;
+  transform: translateX(-50%);
+}
+.side-nav {
+  margin-top: 2rem;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+.togle-select {
+  display: flex;
+  justify-content: center;
+}
+.nav-link-dash {
+  color: #fff;
+  text-decoration: none;
+}
+.nav-link-dash:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.sidenav---navitem---9uL5T a {
+  color: #fff;
+  text-decoration: none;
+}
+.sidenav---navitem---9uL5T a:hover {
+  color: #fff;
+  text-decoration: none;
+}

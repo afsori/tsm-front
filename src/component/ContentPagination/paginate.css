@@ -1,0 +1,21 @@
+li.list-group-item {
+  text-align: left;
+  list-style: none;
+}
+.list-lat-long {
+  list-style: none;
+}
+.pagination {
+  display: flex;
+  justify-content: start;
+  list-style: none;
+}
+.pagination li {
+  padding: 0 1rem 0 0;
+}
+tr td {
+  text-align: left;
+}
+td li {
+  list-style: none;
+}
